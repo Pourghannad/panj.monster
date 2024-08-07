@@ -1,28 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>پنج هیولا</title>
-    <style>
-      body,
-      html {
-        padding: 0;
-        margin: 0;
-      }
-      body {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        height: 100vh;
-        width: 100%;
-        background-color: #f7f2d2;
-      }
-    </style>
-  </head>
-  <body>
-    <section>
-      <svg
+<svg
         width="287.5"
         height="100"
         viewBox="0 0 287.5 100"
@@ -35,6 +11,3 @@
           />
         </g>
       </svg>
-    </section>
-  </body>
-</html>
